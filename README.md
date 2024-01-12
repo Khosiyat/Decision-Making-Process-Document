@@ -10,5 +10,5 @@
 
 
 
-**Last decision**
+**Last decision ---> **
 | **Chart.js with React** | - Simple and easy to use **-MIT License**                                     | - Limited customization options            | [Chart.js]
