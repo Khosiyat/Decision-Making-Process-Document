@@ -3,7 +3,7 @@
 
 ```mermaid
 graph LR
-A[Hard edge] -->B(Round edge)
+A[Researching] -->B(Testing each filtered library with dummy data in the local machine)
     B --> C{Decision}
     C -->|Recharts| D[Decision one]
     C -->|Chart.js| E[Decision two]
