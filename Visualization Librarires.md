@@ -5,8 +5,8 @@
 graph LR
 A[Hard edge] -->B(Round edge)
     B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+    C -->|Recharts| D[Decision one]
+    C -->|Chart.js| E[Decision two]
 ```
 
 - Khosiyat filtered (researched and tested 6 libraries in the local machine  with dummy data) the top 6 visualization libraries(provided in the table below) and she chose Recharts ( because of 1)Integration with React. 2) Active Development and Community Support 3) Easy 4) MIT License )
