@@ -4,7 +4,7 @@
 ```mermaid
 graph LR
 A[Researching] -->B(Testing each filtered library with dummy data in the local machine)
-    B --> C{Decision factors 1)Integration with React 2) Community Support 3)Open-source 4)easy}
+    B --> C{Decision factors 1. Integration with React 2. Community Support 3. Open-source 4)easy}
     C -->|Recharts| D[Decision one]
     C -->|Chart.js| E[Decision two]
 ```
