@@ -14,7 +14,7 @@ A[Researched] -->B(Tested each filtered library with dummy data in the local mac
 - Khosiyat filtered (researched and tested 6 libraries in the local machine  with dummy data) the top 6 visualization libraries(provided in the table below) and she chose Recharts ( because of 1)Integration with React. 2) Active Development and Community Support 3) Easy 4) MIT License )
 - Mathieu suggested `Chart.js` ( because of  1) Community Support 2) Well documentation 3) Easy to apply )
 - Whui-Mei suggested `GNUPLOT`. Khosiyat's objection to GNUPLOT and alternative suggestion is: `Chart.js` surpasses `Gnuplot` in several aspects, including a large community, extensive documentation, a library with a quick setup, and more straightforward integration.
-- Tech team, Zuzanna and Khosiyat (Yuliia?) agreed to use `Chart.js`.
+- The tech team, Yuliia, Zuzanna, and Khosiyat agreed to use `Chart.js`.
 
 - # Researched Libraries
 | Library            | Pros                                                         | Cons                                       | GitHub Repository I researched                                         |
