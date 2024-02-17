@@ -15,7 +15,7 @@ To minimize conflicts among us (developers) in terms of maintaining a clean and 
 ## Workflow Rules:
 ### 1. Creating Branches
 - We (every developer) should create a new branch for each change we want to make.
-- Branch names should be descriptive and reflect the purpose of the change. Additionally, we must inform other developer team members about the purpose of the newly created branch.
+- Branch names should be descriptive and reflect the purpose of the change. Additionally, we must inform other developer team members about the purpose of the newly created branch via Slack.
 - Avoid creating branches without any actual changes or features.
 
 ### 2. Making Changes
