@@ -29,14 +29,14 @@ To minimize conflicts among us (developers) in terms of maintaining a clean and 
 
 ### 4. Merging Changes
 - After approval, merge the changes into the develop branch.
-- Ensure that the develop branch remains stable and functional at all times.
-- Avoid pushing directly to the develop branch.
+- Ensure that the `develop` branch remains stable and functional at all times.
+- Avoid pushing directly to the `develop branch`.
 - Before pushing any changes to a shared (`develop`) branch, ensure that your changes have been merged successfully with the latest version of the target branch (to avoid the conflicts we are encountering frequently)
 
 ### 5. Pulling Changes
-- Before making any new changes, pull the latest changes from the develop branch to stay up-to-date.
+- Before making any new changes, pull the latest changes from the `develop` branch to stay up-to-date.
 - Resolve any merge conflicts locally before proceeding.
 
 ### 6. **Documentation:**
-  - Document any significant changes (at least leave comments), including reasons for modifications, to ensure transparency and clarity for all team members.
+  - Document any significant changes (at least leave comments on Slack), including reasons for modifications, to ensure transparency and clarity for all team members.
 
