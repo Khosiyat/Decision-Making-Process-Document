@@ -3,7 +3,7 @@ To minimize conflicts among us (developers) in terms of maintaining a clean and 
 
 ## Basic Principles
 1. **Branching Strategy**: Use branches for all **new changes, features, fixes, and refactoring**. Avoid direct commits to the `develop` branch (We agreed not to commit directly to the main or develop branch).
-2. **Code Reviews**: All changes must undergo code review before merging into the main branches to ensure quality and consistency.
+2. **Code Reviews**: All changes must undergo code review before merging into the `develop` branch to ensure quality and consistency.
 3. **Continuous Integration**: Ensure that the `develop` branch always contains a working version of the application.
 
 ## General Workflow Steps:
