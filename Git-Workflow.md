@@ -1,4 +1,4 @@
-# GitHub Workflow Guidelines for Lund University's `biodiversitydata-se` Project
+# GitHub Workflow Guidelines the Tech Team
 To minimize conflicts among us (developers) in terms of maintaining a clean and organized codebase and to ensure a smooth and efficient code review process we've established the following guidelines.
 
 ## Basic Principles
@@ -27,16 +27,24 @@ To minimize conflicts among us (developers) in terms of maintaining a clean and 
 - Select team members (2 of the 3 developers for now: Khosiyat, Yuliia, Zuzanna) for the PR.
 - Reviewers should provide constructive feedback and approve the PR before merging.
 
-### 4. Merging Changes
+### 4. **The Code Review Procedure**
+ 
+  - When creating PR, write in PR comment:
+  - Link to task in Jira;
+  - (OPTIONAL) Summarise what has been done + explain design decisions, if relevant
+  - Write descriptive self-explanatory Git commit message. Format: [JIRA issue #] <short description of the change> Example: 57: added colors
+
+### 5. Merging Changes
 - After approval, merge the changes into the develop branch.
 - Ensure that the `develop` branch remains stable and functional at all times.
 - Avoid pushing directly to the `develop branch`.
 - Before pushing any changes to a shared (`develop`) branch, ensure that your changes have been merged successfully with the latest version of the target branch (to avoid the conflicts we are encountering frequently)
 
-### 5. Pulling Changes
+### 6. Pulling Changes
 - Before making any new changes, pull the latest changes from the `develop` branch to stay up-to-date.
 - Resolve any merge conflicts locally before proceeding.
 
-### 6. **Documentation:**
+### 7. **Documentation:**
   - Document any significant changes (at least leave comments on Slack), including reasons for modifications, to ensure transparency and clarity for all team members.
+
 
